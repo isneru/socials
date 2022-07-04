@@ -30,8 +30,8 @@ export const App: React.FC = () => {
             text="Github"
             children={
               <GithubLogo
-                size={28}
-                className="absolute left-8 lg:left-1/4"
+                size={32}
+                className="xs:absolute xs:left-5"
                 weight="duotone"
               />
             }
@@ -41,8 +41,8 @@ export const App: React.FC = () => {
             text="LinkedIn"
             children={
               <LinkedinLogo
-                size={28}
-                className="absolute left-8 lg:left-1/4"
+                size={32}
+                className="xs:absolute xs:left-5"
                 weight="duotone"
               />
             }
@@ -52,8 +52,8 @@ export const App: React.FC = () => {
             text="Youtube"
             children={
               <YoutubeLogo
-                size={28}
-                className="absolute left-8 lg:left-1/4"
+                size={32}
+                className="xs:absolute xs:left-5"
                 weight="duotone"
               />
             }
@@ -63,8 +63,8 @@ export const App: React.FC = () => {
             text="Twitter"
             children={
               <TwitterLogo
-                size={28}
-                className="absolute left-8 lg:left-1/4"
+                size={32}
+                className="xs:absolute xs:left-5"
                 weight="duotone"
               />
             }
@@ -74,8 +74,8 @@ export const App: React.FC = () => {
             text="Instagram"
             children={
               <InstagramLogo
-                size={28}
-                className="absolute left-8 lg:left-1/4"
+                size={32}
+                className="xs:absolute xs:left-5"
                 weight="duotone"
               />
             }
