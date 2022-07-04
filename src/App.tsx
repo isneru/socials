@@ -3,11 +3,11 @@ import { motion } from "framer-motion";
 
 import { Link } from "./components";
 import {
+  CurrencyCircleDollar,
   GithubLogo,
   InstagramLogo,
   LinkedinLogo,
   TwitterLogo,
-  YoutubeLogo,
 } from "phosphor-react";
 
 export const App: React.FC = () => {
@@ -92,10 +92,10 @@ export const App: React.FC = () => {
             }
           />
           <Link
-            href="https://www.youtube.com/channel/UCb5KD7JmcYh-4FUhnnFpLsQ"
-            text="Youtube"
+            href="https://www.fiverr.com/neruuu"
+            text="Fiverr"
             children={
-              <YoutubeLogo
+              <CurrencyCircleDollar
                 size={32}
                 className="xs:absolute xs:left-5"
                 weight="duotone"

@@ -29,6 +29,7 @@ By building this application, I was able to improve my skills, such as:
 
 - [x] TailwindCSS
 - [x] PhosphorIcons
+- [x] Framer-Motion
 - [x] Responsive Design
 
 #### Deploy
