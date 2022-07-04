@@ -12,7 +12,7 @@ In your terminal after you clone your project down, remember to run either `yarn
 
 After you are done installing the dependencies run `npm run dev` or `yarn dev`.
 
-## You can access this project's deploy by clicking [here](https://portfolio-isneru.vercel.app/).
+## You can access this project's deploy by clicking [here](https://socials-three.vercel.app/).
 
 #### The Project
 
