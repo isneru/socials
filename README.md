@@ -29,7 +29,7 @@ By building this application, I was able to improve my skills, such as:
 
 - [x] TailwindCSS
 - [x] PhosphorIcons
-- [ ] Responsive Design
+- [x] Responsive Design
 
 #### Deploy
 
@@ -39,11 +39,11 @@ By building this application, I was able to improve my skills, such as:
 
 #### Landing Page
 
-![](https://i.imgur.com/94vqBE0.png)
+![](https://i.imgur.com/lTr8gPK.png)
 
-#### Responsive - Work in Progress
+#### Responsive
 
-![]()
+![](https://i.imgur.com/unv7N5i.png)
 
 <p align='center'>
 Made with 💜 by Me.
