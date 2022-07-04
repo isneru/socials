@@ -3,6 +3,10 @@ module.exports = {
   content: ["./src/**/*.tsx"],
   theme: {
     extend: {
+      screens: {
+        wide: "2000px",
+        xs: "450px",
+      },
       colors: {
         background: "#232946",
         button: "#eebbc3",
