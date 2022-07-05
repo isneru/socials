@@ -22,7 +22,6 @@ By building this application, I was able to improve my skills, such as:
 
 - [x] Typescript
 - [x] ReactJS
-- [x] React-Router-DOM
 - [x] Vite
 
 #### Styling
