@@ -91,7 +91,7 @@ export const App: React.FC = () => {
               />
             }
           />
-          <Link
+          {/* <Link
             href="https://www.fiverr.com/neruuu"
             text="Fiverr"
             children={
@@ -101,7 +101,7 @@ export const App: React.FC = () => {
                 weight="duotone"
               />
             }
-          />
+          /> */}
           <Link
             href="https://twitter.com/lapela19"
             text="Twitter"
